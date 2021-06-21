@@ -1,3 +1,17 @@
+# Music application
+
+A music application that is shown as a player where there are 4 different songs to play and skip depending on the user.
+
+# Deployment
+
+using node js
+
+cd musicapp
+
+npm start
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
