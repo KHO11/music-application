@@ -4,12 +4,6 @@ A music application that is shown as a player where there are 4 different songs 
 
 # Deployment
 
-using node js
-
-cd musicapp
-
-npm start
-
 https://musicstuff.netlify.app/
 
 # Getting Started with Create React App
