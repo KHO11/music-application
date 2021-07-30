@@ -4,7 +4,7 @@ A music application that is shown as a player where there are 4 different songs 
 
 # Deployment
 
-https://musicstuff.netlify.app/
+https://musicstuff2.netlify.app/
 
 # Getting Started with Create React App
 
